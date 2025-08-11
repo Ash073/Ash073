@@ -23,6 +23,7 @@ I believe that as data continues to trend and grow exponentially, the world need
 ---
 
 <!-- Optionally add social links, certifications, or fun facts below -->
-<!-- [LinkedIn](your-link) • [Portfolio](your-site) -->
+[LinkedIn](https://www.linkedin.com/in/sayyed-ashif-b23704289/) 
+<!--• [Portfolio](your-site)
 
 Let's connect and collaborate on data-driven solutions!
